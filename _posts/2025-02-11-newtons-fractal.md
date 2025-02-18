@@ -6,7 +6,7 @@ author:
 - Bora Evinç
 ---
 
-<img src="https://raw.githubusercontent.com/Kqpa/math/refs/heads/master/assets/photos/newtons-fractal1.png"
+<img src="https://raw.githubusercontent.com/Kqpa/math/refs/heads/master/assets/photos/newton-fractal1.png"
      alt="Some diagram"
      style="display:block; margin:0 auto; max-width:100%; height:auto;" />
 <figure style="text-align:center;">
@@ -25,20 +25,20 @@ author:
 ## A Brief Intro to Newton's Methods
 
 &nbsp; We’ve all been introduced to polynomials, where they are in the rather simple form of:
-<img src="https://raw.githubusercontent.com/Kqpa/math/refs/heads/master/assets/photos/newtons-fractal2.jpg"
+<img src="https://raw.githubusercontent.com/Kqpa/math/refs/heads/master/assets/photos/newton-fractal2.jpg"
      alt="Some diagram"
      style="display:block; margin:0 auto; max-width:100%; height:auto;" />
 
 The simple algebraic notation and properties of polynomials make it a pivotal tool in engineering and physics in general. They are used everywhere ranging from computer graphics to determining the state of moving objects. Specifically, one of the most important properties of polynomials are their zeros: where P(x) = 0. We have the famous quadratic equation to calculate these values for a polynomial of degree 2.
 
-<img src="https://raw.githubusercontent.com/Kqpa/math/refs/heads/master/assets/photos/newtons-fractal3.jpg"
+<img src="https://raw.githubusercontent.com/Kqpa/math/refs/heads/master/assets/photos/newton-fractal3.jpg"
      alt="Some diagram"
      style="display:block; margin:0 auto; max-width:100%; height:auto;" />
 
 We can trivially calculate these values with this simple formula. But, what about a polynomial of degree 3? How can we formulate a way to calculate the zeros of an arbitrary 3rd degree polynomial? Well, there is a way, but it is nowhere near 
 trivial as the quadratic formula.
 
-<img src="https://raw.githubusercontent.com/Kqpa/math/refs/heads/master/assets/photos/newtons-fractal4.jpg"
+<img src="https://raw.githubusercontent.com/Kqpa/math/refs/heads/master/assets/photos/newton-fractal4.jpg"
      alt="Some diagram"
      style="display:block; margin:0 auto; max-width:100%; height:auto;" />
 
@@ -48,25 +48,25 @@ As can be seen, it keeps getting harder and harder, and the formula for degree 4
 
 &nbsp; Let’s say, speaking of polynomials of degree 5, that he reached a formula in the form of a 5th-degree polynomial characterizing the velocity of an object over time. To find the point at which the object is at rest, he has to find the zeros of said polynomial. However, there is no trivial way of doing so. Therefore, he developed the following approximation formula. Let’s work off a concrete example:
 
-<img src="https://raw.githubusercontent.com/Kqpa/math/refs/heads/master/assets/photos/newtons-fractal5.jpg"
+<img src="https://raw.githubusercontent.com/Kqpa/math/refs/heads/master/assets/photos/newton-fractal5.jpg"
      alt="Some diagram"
      style="display:block; margin:0 auto; max-width:100%; height:auto;" />
 
 &nbsp; Suppose that we want to find the time value of the marked point. We’ll eyeball a time value close enough to the point that we’re trying to reach, and step towards it to the zero that we are concerned about. Newton’s algorithm relies (this will be important later on with its connection with the fractal) on the fact that we’ve eyeballed a good enough value that is close to the zero we’re concerned about. 
 
-<img src="https://raw.githubusercontent.com/Kqpa/math/refs/heads/master/assets/photos/newtons-fractal6.jpg"
+<img src="https://raw.githubusercontent.com/Kqpa/math/refs/heads/master/assets/photos/newton-fractal6.jpg"
      alt="Some diagram"
      style="display:block; margin:0 auto; max-width:100%; height:auto;" />
 
 Imagine yourself taking this step on the number line. Now, you’ve landed on your new, second, guess which is closer to your zero of the polynomial. Initially, you were (Guess) - (Zero) away from your desired value. Now, you’ve taken a step towards the zero from your initial guess, and reached a new guess of (Guess - Step), which is now (Guess - Step) - (Zero) away from your zero value! You are getting closer. We can formulate, depending on the guess that we’re taking, the step size that we should take to get closer to our desired value.
 
-<img src="https://raw.githubusercontent.com/Kqpa/math/refs/heads/master/assets/photos/newtons-fractal6.jpg"
+<img src="https://raw.githubusercontent.com/Kqpa/math/refs/heads/master/assets/photos/newton-fractal6.jpg"
      alt="Some diagram"
      style="display:block; margin:0 auto; max-width:100%; height:auto;" />
 
 Now, finalizing our approximation method, we incorporate the step size with the guess values.
 
-<img src="https://raw.githubusercontent.com/Kqpa/math/refs/heads/master/assets/photos/newtons-fractal7.jpg"
+<img src="https://raw.githubusercontent.com/Kqpa/math/refs/heads/master/assets/photos/newton-fractal7.jpg"
      alt="Some diagram"
      style="display:block; margin:0 auto; max-width:100%; height:auto;" />
 
