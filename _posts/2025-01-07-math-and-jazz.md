@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jazz Music and Mathematics Summary"
-categories: book-review
+categories: article-review
 author:
 - Çınla Sadberk Arslan
 ---
