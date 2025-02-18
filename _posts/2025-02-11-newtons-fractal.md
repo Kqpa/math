@@ -79,25 +79,19 @@ Newton himself was actually not aware of the existence of the fractal. He merely
 
 &nbsp; Fractals are “images” drawn on the complex plane, where it allows for analysis of every single number (both real and complex) how it prompts the function being analyzed to behave. The colors are used as “gradients”, indicating to what degree the value causes the function to diverge to a random value, or how it converges. Every point on the complex plane is given a “gradient of color” based on these characteristics, and the numbers attributed with these colors form these beautiful shapes. To think of this in a more concrete way, let’s look at Newton’s Fractal:
 
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://youtu.be/PJp-ucXgcwk" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen>
-</iframe>
+<iframe width="560" height="315"
+src="https://www.youtube.com/watch?v=PJp-ucXgcwk" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 
 &nbsp; Every single dot represents the possibility of all guesses, and as they “march” by taking steps using Newton’s algorithm, some are able to converge towards the zeros. However, some take on different routes and diverge from the zeros. By labeling each dot with the degree on how much it converges or diverges, we are able to plot for every single number (again, both complex and real) how this algorithm behaves. It allows us to see in which patterns it works. Rather than going, “oh, why did it arbitrarily not work this time?”, it allows us to geometrically interpret the pattern behind its convergence or divergence.
 
-<iframe 
-  width="560" 
-  height="315" 
-  src="https://youtu.be/KavleQXSayg" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen>
-</iframe>
+<iframe width="560" height="315"
+src="https://www.youtube.com/watch?v=KavleQXSayg" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
 
 &nbsp; These fractals also contain “infinite detail”, where you can zoom in at magnitudes of 10-20and beyond. Connecting this with the “coloring” information above, moving the value of an initial guess by only a value of, let’s say 10-20 can drastically change the outcome. Since the shapes are still preserved in such small magnitudes, a change so small in those magnitudes would still make it very possible for the value to land on a shaded area which symbolizes divergence. It is like a landmine: where without exploring it through fractals, you have no clue of the pattern for the functions behaviour.
 
