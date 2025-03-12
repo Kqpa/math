@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Jazz Music and Mathematics Summary"
+subtitle: "The article discusses the topic Jazz Music and Mathematics. It dives into the subtopics such as durations of notes in jazz and swing conventions..."
 categories: article-review
 author:
 - Çınla Sadberk Arslan
-summary: "The article discusses the topic Jazz Music and Mathematics. It dives into the subtopics such as durations of notes in jazz and swing conventions..." 
 ---
 
 &nbsp; The article discusses the topic Jazz Music and Mathematics. It dives into the subtopics such as durations of notes in jazz and swing conventions, number of bars in a passage, jazz notes, jazz chords, and symphonic and jazz keys and instrumentation.
