@@ -16,6 +16,10 @@ permalink: /about/
 
 #### Another focus of the club will be the application/use of mathematics in the field of art and architecture. How did people use mathematics while creating artistic products? Was/Is it a natural source or a tool in the production process?
 
+<img src="https://raw.githubusercontent.com/Kqpa/math/refs/heads/master/assets/photos/header-3.png"
+     alt="Some diagram"
+     style="display:block; margin:0 auto; max-width:50%; height:auto;" />
+
 ## __What will the students produce?__
 
 #### We will ask students to choose the topics they are interested in and prepare a presentation on the concept/topic related to the questions above. They may conduct a project on the topic they choose and present the project at the end of the school year.
