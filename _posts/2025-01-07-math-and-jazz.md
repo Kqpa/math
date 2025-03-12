@@ -4,10 +4,10 @@ title: "Jazz Music and Mathematics Summary"
 categories: article-review
 author:
 - Çınla Sadberk Arslan
+- summary: "The article discusses the topic Jazz Music and Mathematics. It dives into the subtopics such as durations of notes in jazz and swing conventions..." 
 ---
 
 &nbsp; The article discusses the topic Jazz Music and Mathematics. It dives into the subtopics such as durations of notes in jazz and swing conventions, number of bars in a passage, jazz notes, jazz chords, and symphonic and jazz keys and instrumentation.
-<!--more-->
 &nbsp; Note duration is defined as the length of a played note. The jazz notes’ durations are different from symphonic music which is determined by binary fractions. Let a whole duration be t, the other duration is fractions of t. However, __ties__ and __triplets__ are also used for complex durations or non-terminating binary fractions. 
 
 <img src="https://raw.githubusercontent.com/Kqpa/math/refs/heads/master/assets/photos/math_jazz1.png"
