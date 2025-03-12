@@ -6,10 +6,13 @@ author:
 - Samantha Johnson
 ---
 
+When We Cease to Understand the World, by Benjamin Labatut, blurs the line between fiction and nonfiction by telling the story of great mathematicians and scientists of the 20th century. 
+<!---more--->
+
 <img src="https://raw.githubusercontent.com/Kqpa/math/refs/heads/master/assets/photos/when_we_cease.jpg" alt="When We Cease to Understand the World" 
      align="left" width="350" style="margin-right: 10px; margin-bottom: 10px;" />
 
-When We Cease to Understand the World, by Benjamin Labatut, blurs the line between fiction and nonfiction by telling the story of great mathematicians and scientists of the 20th century. In each chapter, Labatut recreates the events and personal struggles each scientist went through to reach their breakthrough. He also discusses the historical events happening during that time and how those influenced the direction of the knowledge production. 
+In each chapter, Labatut recreates the events and personal struggles each scientist went through to reach their breakthrough. He also discusses the historical events happening during that time and how those influenced the direction of the knowledge production. 
 
 The book is a fascinating dive into the personal mindset and philosophical struggles of some of the most famous scientists and mathematicians of the recent century. Labatut takes liberty and creative freedom when recreating moments of genius and breakthroughs, though at times it's difficult to separate fantasy from reality. 
 
