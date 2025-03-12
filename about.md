@@ -6,7 +6,7 @@ permalink: /about/
 
 <img src="https://raw.githubusercontent.com/Kqpa/math/refs/heads/master/assets/photos/header-2.png"
      alt="Some diagram"
-     style="display:block; margin:0 auto; max-width:50%; height:auto;" />
+     style="display:block; margin:0 auto; max-width:125%; height:auto;" />
 
 ## __What is the pursuit of this club?__
 
