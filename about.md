@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About: MATHEMATICS in CULTURE and ART
+title: "About: MATHEMATICS in CULTURE and ART"
 permalink: /about/
 ---
 
