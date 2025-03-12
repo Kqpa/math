@@ -6,6 +6,9 @@ author:
 - Bora Evinç
 ---
 
+&nbsp; In mathematics, regardless if you’re studying it in school or at your job as a physician or computer scientist, we deal with “algorithms” that seemingly generate results based on a set of inputs. Generally, we focus on the micro aspect on such calculations and prize the numeric result we get. It is a much more “pragmatic” approach, where one cares about solving an equation rather than understanding its structure as a whole.
+<!---more--->
+
 <img src="https://raw.githubusercontent.com/Kqpa/math/refs/heads/master/assets/photos/newton-fractal1.png"
      alt="Some diagram"
      style="display:block; margin:0 auto; max-width:100%; height:auto;" />
@@ -15,8 +18,6 @@ author:
     (source: 3Blue1Brown’s Manim Illustration of the Newton Fractal)
   </figcaption>
 </figure>
-
-&nbsp; In mathematics, regardless if you’re studying it in school or at your job as a physician or computer scientist, we deal with “algorithms” that seemingly generate results based on a set of inputs. Generally, we focus on the micro aspect on such calculations and prize the numeric result we get. It is a much more “pragmatic” approach, where one cares about solving an equation rather than understanding its structure as a whole.
 
 &nbsp; Newton’s Method’s illustration stems from looking at the macro aspect of an algorithm, which we refer to as “equations” or “functions” in mathematics. Rather than being concerned about singular results, it attempts to explain the behavior of an approximation algorithm which in real life might not initially have much use. As a result, topics like this are generally disregarded in applied mathematics, where understanding the why and how is usually less important than the result.
 
